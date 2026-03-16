@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{{ config.title }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ get_url(path='css/main.css') }}">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <a href="{% if lang != config.default_language %}/{{ lang }}/{% else %}/{% endif %}" class="logo">Semilla</a>
+        <ul class="nav-links">
+          {% for item in config.extra.nav %}
+          <li><a href="{% if lang != config.default_language %}/{{ lang }}/{% else %}/{% endif %}{{ item.key }}/">
+            {% if lang == "cs" %}{{ item.cs }}{% elif lang == "en" %}{{ item.en }}{% else %}{{ item.es }}{% endif %}
+          </a></li>
+          {% endfor %}
+        </ul>
+        <div class="lang-switcher">
+          {% set cs_class = "" %}
+          {% set en_class = "" %}
+          {% set es_class = "" %}
+          {% if lang == "cs" %}
+            {% set_global cs_class = "active" %}
+          {% elif lang == "en" %}
+            {% set_global en_class = "active" %}
+          {% else %}
+            {% set_global es_class = "active" %}
+          {% endif %}
+          <a href="/" class="{{ cs_class }}">CS</a>
+          <span>/</span>
+          <a href="/en/" class="{{ en_class }}">EN</a>
+          <span>/</span>
+          <a href="/es/" class="{{ es_class }}">ES</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      {% block content %}{% endblock %}
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Semilla</p>
+    </div>
+  </footer>
+</body>
+</html>

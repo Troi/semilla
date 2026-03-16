@@ -1,0 +1,31 @@
+base_url = "https://semilla.troi.cz"
+title = "Semilla"
+description = "Zárodek budoucí komunity"
+default_language = "cs"
+compile_sass = false
+generate_feeds = false
+minify_html = true
+
+[languages.en]
+title = "Semilla"
+description = "A seed for future community"
+
+[languages.es]
+title = "Semilla"
+description = "Una semilla para la comunidad futura"
+
+[markdown]
+highlight_code = false
+render_emoji = false
+
+[extra]
+nav = [
+  { key = "manifest",   cs = "Manifest",   en = "Manifesto",  es = "Manifiesto" },
+  { key = "scenarios",  cs = "Scénáře",    en = "Scenarios",  es = "Escenarios" },
+  { key = "strategies", cs = "Pro koho",   en = "For whom",   es = "Para quién" },
+  { key = "pillars",    cs = "Pilíře",     en = "Pillars",    es = "Pilares"    },
+  { key = "roadmap",    cs = "Roadmap",    en = "Roadmap",    es = "Hoja de ruta" },
+  { key = "structure",  cs = "Struktura",  en = "Structure",  es = "Estructura" },
+  { key = "about",      cs = "O mně",      en = "About",      es = "Sobre mí"   },
+  { key = "faq",        cs = "FAQ",        en = "FAQ",        es = "FAQ"        },
+]
