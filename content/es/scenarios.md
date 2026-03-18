@@ -33,8 +33,8 @@ Nadie conoce el futuro. Una buena estrategia funciona en múltiples escenarios. 
 <td title="Protección contra inflación, pero sin rendimiento, costo de oportunidad.">🟡</td>
 <td title="Activo estable, posibilidad de alquiler, protección de capital.">🟢</td>
 <td title="Estrategia estándar funciona, retornos razonables.">🟢</td>
-<td title="Granja funcionando, residencia, vacaciones, parte de producción.">🟢</td>
-<td title="Comunidad activa, utilización de habilidades, calidad de vida.">🟢</td>
+<td title="Granja funcionando, residencia, parte de la producción, pero menor rendimiento que el de mercado por oportunidades de inversión no aprovechadas (costo de oportunidad).">🟡</td>
+<td title="Comunidad activa y calidad de vida, pero económicamente peor que las alternativas de mercado por oportunidades de inversión no aprovechadas (costo de oportunidad).">🟡</td>
 </tr>
 <tr>
 <td title="La burbuja de IA estalla, corrección fiscal en UE y USA, el desempleo sube. Los estados recortan gastos, los sistemas de pensiones se reforman. La tensión social crece pero las instituciones se sostienen. Los inmuebles caen 20-30%, las acciones volátiles."><strong>Recesión suave 2030s</strong></td>

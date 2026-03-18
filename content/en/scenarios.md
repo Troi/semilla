@@ -33,8 +33,8 @@ Nobody knows the future. A good strategy works across multiple scenarios. The ta
 <td title="Protection against inflation, but no yield, opportunity cost.">🟡</td>
 <td title="Stable asset, rental possibility, capital protection.">🟢</td>
 <td title="Standard strategy works, reasonable returns.">🟢</td>
-<td title="Functioning farm, residency, vacation, share of production.">🟢</td>
-<td title="Active community, skill utilization, quality of life.">🟢</td>
+<td title="Functioning farm, residency, share of production, but lower return than market due to missed investment opportunities (opportunity cost).">🟡</td>
+<td title="Active community and quality of life, but economically worse than market alternatives due to missed investment opportunities (opportunity cost).">🟡</td>
 </tr>
 <tr>
 <td title="AI bubble bursts, fiscal correction in EU and USA, unemployment rises. States cut spending, pension systems reform. Social tension grows but institutions hold. Real estate drops 20-30%, stocks volatile."><strong>Soft recession 2030s</strong></td>

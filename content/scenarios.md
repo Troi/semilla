@@ -33,8 +33,8 @@ Nikdo nezná budoucnost. Dobrá strategie funguje v několika scénářích naje
 <td title="Ochrana proti inflaci, ale žádný yield, opportunity cost.">🟡</td>
 <td title="Stabilní aktivum, možnost pronájmu, ochrana kapitálu.">🟢</td>
 <td title="Standardní strategie funguje, rozumné výnosy.">🟢</td>
-<td title="Fungující farma, residencia, dovolená, podíl na produkci.">🟢</td>
-<td title="Aktivní komunita, skill utilization, kvalita života.">🟢</td>
+<td title="Fungující farma, residencia, podíl na produkci, ale nižší výnos než tržní kvůli nevyužitým investičním příležitostem (opportunity cost).">🟡</td>
+<td title="Aktivní komunita a kvalita života, ale ekonomicky horší než tržní alternativy kvůli nevyužitým investičním příležitostem (opportunity cost).">🟡</td>
 </tr>
 <tr>
 <td title="AI bublina splaskne, fiskální korekce v EU a USA, nezaměstnanost roste. Státy škrtají výdaje, penzijní systémy reformují. Sociální napětí roste, ale instituce drží. Nemovitosti klesají 20-30%, akcie volatilní."><strong>Měkká recese 2030s</strong></td>
