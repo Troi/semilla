@@ -10,8 +10,8 @@ Semilla není pro každého. Je pro lidi kteří vidí stejné riziko, mají kap
 
 **Co dostáváte:**
 - Podíl na uruguayské SA úměrný investici
+- Podíl na zisku SA (dividenda) úměrný vašemu podílu; čisté výplaty po odečtení přiměřených administrativních nákladů. Upozornění: nesete provozní a tržní riziko – nižší zisk nebo ztráta jsou možné.
 - Residencia – legální pobyt v Uruguayi, cesta k trvalému pobytu
-- Podíl na produkci farmy (zelenina, ovoce, vejce, mléčné produkty) za nákladovou cenu
 - Možnost strávit čas na farmě (dovolená, práce na dálku, dlouhodobý pobyt)
 - Exit definovaný ve smlouvě – víte za jakých podmínek můžete odejít a co dostanete zpět
 - Pojistka – když systémy kolabují, máte kam jít a co jíst
@@ -33,15 +33,16 @@ Semilla není pro každého. Je pro lidi kteří vidí stejné riziko, mají kap
 **Co přinášíte:** Skill. Lékař, agronom, řemeslník, software developer, učitel, zdravotní sestra. Lidi kteří umí věci které komunita potřebuje.
 
 **Co dostáváte:**
-- Podíl na uruguayské SA – nižší kapitálový vstup ($20k-$30k) kompenzovaný skill contribution
-- Residencia – legální pobyt v Uruguayi
-- Aktivní členství v komunitě – hlas v governance, účast na rozhodování
-- Podíl na produkci farmy za nákladovou cenu
+- Místo v družstvu (coop) – členství založené primárně na skill contribution; kapitálový vstup může být nižší ($20k–$30k) a doplněný prací
+- Přímý přístup do governance – hlas v rozhodování družstva i komunity
+- Podíl na produkci a zboží za nákladovou cenu
 - Možnost využít svůj skill v komunitě (placená práce nebo barter)
 - Prioritní přístup k infrastruktuře (bydlení, zdravotní péče, vzdělávání dětí)
+- Residencia – legální pobyt v Uruguayi
 - Pojistka + komunita – nejste sami
 
 **Co děláte:**
+- Platíte pravidelný subscription (členský) fee za účast v družstvu
 - Fyzická přítomnost minimálně 3 měsíce ročně (první 3 roky)
 - Aktivní účast na governance – hlasování, návrhy, diskuse
 - Skill contribution – využití vašeho skillsetu pro komunitu

@@ -10,8 +10,8 @@ Semilla isn't for everyone. It's for people who see the same risk, have capital 
 
 **What you get:**
 - Share in Uruguayan SA proportional to investment
+- Share of SA profit (dividend) proportional to your stake; net payouts after reasonable administrative costs. Note: you bear operational and market risk — lower profit or loss are possible.
 - Residency – legal stay in Uruguay, path to permanent residence
-- Share of farm production (vegetables, fruit, eggs, dairy products) at cost price
 - Possibility to spend time on the farm (vacation, remote work, long-term stay)
 - Exit defined in contract – you know under what conditions you can leave and what you get back
 - Hedge – when systems collapse, you have somewhere to go and something to eat
@@ -33,15 +33,16 @@ Semilla isn't for everyone. It's for people who see the same risk, have capital 
 **What you bring:** Skills. Doctor, agronomist, craftsman, software developer, teacher, nurse. People who can do things the community needs.
 
 **What you get:**
-- Share in Uruguayan SA – lower capital entry ($20k-$30k) compensated by skill contribution
-- Residency – legal stay in Uruguay
-- Active membership in community – voice in governance, participation in decision-making
-- Share of farm production at cost price
+- Place in cooperative (coop) – membership primarily based on skill contribution; capital entry may be lower ($20k–$30k) and complemented by work
+- Direct access to governance – a vote in decision-making of the cooperative and the community
+- Share of production and goods at cost price
 - Possibility to use your skills in the community (paid work or barter)
 - Priority access to infrastructure (housing, healthcare, children's education)
+- Residency – legal stay in Uruguay
 - Hedge + community – you're not alone
 
 **What you do:**
+- Pay a regular subscription (membership) fee for participation in the cooperative
 - Physical presence minimum 3 months per year (first 3 years)
 - Active participation in governance – voting, proposals, discussions
 - Skill contribution – using your skillset for the community

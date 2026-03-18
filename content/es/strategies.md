@@ -10,8 +10,8 @@ Semilla no es para todos. Es para personas que ven el mismo riesgo, tienen capit
 
 **Qué obtenés:**
 - Parte en SA uruguaya proporcional a la inversión
+- Participación en las utilidades de la SA (dividendo) proporcional a tu participación; pagos netos después de costos administrativos razonables. Aviso: asumís riesgo operativo y de mercado: es posible menor ganancia o pérdida.
 - Residencia – estadía legal en Uruguay, camino a residencia permanente
-- Parte de producción de granja (verduras, frutas, huevos, productos lácteos) a precio de costo
 - Posibilidad de pasar tiempo en la granja (vacaciones, trabajo remoto, estadía prolongada)
 - Exit definido en contrato – sabés bajo qué condiciones podés irte y qué recibís de vuelta
 - Cobertura – cuando los sistemas colapsan, tenés dónde ir y qué comer
@@ -33,15 +33,16 @@ Semilla no es para todos. Es para personas que ven el mismo riesgo, tienen capit
 **Qué aportás:** Habilidades. Médico, agrónomo, artesano, desarrollador de software, maestro, enfermera. Personas que pueden hacer cosas que la comunidad necesita.
 
 **Qué obtenés:**
-- Parte en SA uruguaya – entrada de capital menor ($20k-$30k) compensada por contribución de habilidades
-- Residencia – estadía legal en Uruguay
-- Membresía activa en comunidad – voz en gobernanza, participación en toma de decisiones
-- Parte de producción de granja a precio de costo
+- Lugar en la cooperativa (coop) – membresía basada principalmente en la contribución de habilidades; la entrada de capital puede ser menor ($20k–$30k) y complementada con trabajo
+- Acceso directo a la gobernanza – voto en la toma de decisiones de la cooperativa y de la comunidad
+- Participación en la producción y bienes a precio de costo
 - Posibilidad de usar tus habilidades en la comunidad (trabajo pago o trueque)
 - Acceso prioritario a infraestructura (vivienda, salud, educación de hijos)
+- Residencia – estadía legal en Uruguay
 - Cobertura + comunidad – no estás solo
 
 **Qué hacés:**
+- Pagar una cuota de suscripción (membresía) regular por la participación en la cooperativa
 - Presencia física mínimo 3 meses por año (primeros 3 años)
 - Participación activa en gobernanza – votación, propuestas, discusiones
 - Contribución de habilidades – usar tu skillset para la comunidad
