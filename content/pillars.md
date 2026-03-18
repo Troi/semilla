@@ -2,29 +2,28 @@
 title = "Pilíře"
 +++
 
-Semilla stojí na čtyřech pilířích. Každý řeší konkrétní problém který zabíjí jiné záměrné komunity. Žádné buzzwordy, žádná ideologie. Jen mechanismy které fungují.
+Semilla stojí na čtyřech pilířích. Každý řeší konkrétní problém který zabíjí jiné záměrné komunity.
 
 ## Governance
 
-**Problém:** Většina komunit kolabuje na governance. Buď je to diktatura (jeden člověk rozhoduje, ostatní odcházejí), nebo je to anarchie (nikdo nerozhoduje, nic se neděje), nebo je to tyranie většiny (51% hlasů = 100% moci).
+**Problém:** Většina komunit kolabuje na governance. Buď je to diktatura (jeden člověk rozhoduje, ostatní odcházejí), nebo je to anarchie (nikdo nerozhoduje, nic se neděje), nebo je to tyranie většiny (51% hlasů = 100% moci) a má tendenci ignorovat esenciální potřeby komunity (porodnost a ekonomickou aktivitu) a tím zničit komunitu v dlouhodobém horizontu.
 
-**Řešení:** Čtyřkomorový systém inspirovaný historickými governance strukturami které přežily staletí.
+**Řešení:** Vícekomorový systém inspirovaný historickými governance strukturami, které přežily staletí.
 
-**Čtyři komory:**
+**Tři a půl komory:**
 
 1. **Komora legitimity** – Všichni podílníci, jeden hlas. Rozhoduje o základních pravidlech, přijímání nových členů, změnách struktury. Většina 2/3 pro zásadní změny. Zajišťuje že nikdo nemůže být přehlasován bez širokého konsenzu.
 
 2. **Komora daní** – Hlasovací síla úměrná kapitálovému vkladu. Rozhoduje o rozpočtu, investicích, finančních závazcích. Zajišťuje že ti kdo platí mají slovo v tom jak se peníze utrácejí.
 
-3. **Komora obrany** – Hlasovací síla úměrná fyzické přítomnosti (dny strávené na farmě za poslední rok). Rozhoduje o bezpečnosti, konfliktních situacích, krizovém řízení. Zajišťuje že ti kdo jsou fyzicky přítomni mají slovo v tom co se děje na místě.
+3. **Komora dětí** – Hlasovací síla úměrná počtu dětí v komunitě. Rozhoduje o vzdělávání, dlouhodobých investicích, udržitelnosti. Zajišťuje že komunita myslí na budoucnost, ne jen na přítomnost.
 
-4. **Komora dětí** – Hlasovací síla úměrná počtu dětí v komunitě. Rozhoduje o vzdělávání, dlouhodobých investicích, udržitelnosti. Zajišťuje že komunita myslí na budoucnost, ne jen na přítomnost.
+4. **Komora obrany**
+   - V BAU nedává smysl a nebude neexitovat, založí se při výrazném zhoršení bezpečnostní situace v místě
+   - Hlasovací síla úměrná fyzické přítomnosti (dny strávené na farmě za poslední rok) a fyzických schopnostech bránit komunitu (fyzička, bojové sporty etc.)
 
 **Jak to funguje:**
-- Každé rozhodnutí musí projít relevantní komorou (nebo komorami)
-- Rozpočet musí projít komorou daní (ti kdo platí) a komorou legitimity (všichni souhlasí)
-- Bezpečnostní opatření musí projít komorou obrany (ti kdo jsou na místě) a komorou legitimity
-- Dlouhodobé investice musí projít komorou daní (finance) a komorou dětí (budoucnost)
+- Každé rozhodnutí může být vetováno výraznou většinou některé komory, aby rozhodnutí nemohly poškodit jeden ze zásadních pilířů komunity
 
 **Proč to funguje:**
 - Vyvažuje různé zájmy – kapitál, fyzická přítomnost, legitimita, budoucnost
@@ -34,16 +33,24 @@ Semilla stojí na čtyřech pilířích. Každý řeší konkrétní problém kt
 
 ## Lokálnost
 
-**Problém:** Globální dodavatelské řetězce jsou křehké. Covid ukázal jak rychle může kolabovat mezinárodní obchod. Energetická krize ukázala jak závislost na dovozu zabíjí ekonomiky. Potravinová bezpečnost není luxus, je to utilita.
+**Problém:**
+    - Globální dodavatelské řetězce jsou křehké. Covid ukázal jak rychle může kolabovat mezinárodní obchod. Energetická krize ukázala jak závislost na dovozu zabíjí ekonomiky. Potravinová bezpečnost není luxus, je to utilita.
+    - Anonymita a neznámost lidí, kteří ovlivňují vaše děti, je obrovský hazard
+    - Přílišná vzdálenost (pra)rodičů vytváří problémy s pravidelností kontaktu. Kazí to vztahy nebo má vysoké náklady.
 
-**Řešení:** Potravinová soběstačnost jako primární cíl. Zdravotní infrastruktura jako sekundární cíl.
+**Řešení:**
+    - Potravinová soběstačnost jako primární cíl.
+    - Zdravotní infrastruktura jako sekundární cíl.
+    - Dochodová vzdálenost k lidem, kteří jsou pro vás důležití
+    - Předvídatelné prostředí pro děti
+    - komunitní "domov důchodců" se škálou péče od plné soběstačnosti po denní dohled
 
 **Potravinová soběstačnost:**
 - Zelenina a ovoce – celoroční produkce díky uruguayskému klimatu
 - Vejce – drůbež jako nejefektivnější zdroj proteinu
 - Mléčné produkty – kozy nebo ovce (nižší nároky než krávy)
 - Obiloviny – pšenice nebo kukuřice pro základní soběstačnost
-- Konzervárenství – zpracování přebytků, zásoby na zimu
+- Konzervárenství – zpracování přebytků, zásoby na zimu a stabilizaci nákladů během ekonomických krizí
 - Semena – vlastní produkce semen, nezávislost na dodavatelích
 
 **Zdravotní infrastruktura:**

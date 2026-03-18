@@ -6,25 +6,24 @@ Semilla stands on four pillars. Each solves a specific problem that kills other 
 
 ## Governance
 
-**Problem:** Most communities collapse on governance. Either it's dictatorship (one person decides, others leave), or anarchy (nobody decides, nothing happens), or tyranny of the majority (51% votes = 100% power).
+**Problem:** Most communities collapse on governance. Either it's dictatorship (one person decides, others leave), or anarchy (nobody decides, nothing happens), or tyranny of the majority (51% votes = 100% power) which tends to ignore the essential needs of the community (birth rate and economic activity) and thus destroys it in the long run.
 
-**Solution:** Four-chamber system inspired by historical governance structures that survived centuries.
+**Solution:** Multi-chamber system inspired by historical governance structures that have survived for centuries.
 
-**Four chambers:**
+**Three and a half chambers:**
 
 1. **Chamber of legitimacy** – All member-shareholders, one vote. Decides on basic rules, accepting new members, structural changes. 2/3 majority for fundamental changes. Ensures nobody can be outvoted without broad consensus.
 
 2. **Chamber of taxes** – Voting power proportional to capital contribution. Decides on budget, investments, financial commitments. Ensures those who pay have a say in how money is spent.
 
-3. **Chamber of defense** – Voting power proportional to physical presence (days spent on farm in last year). Decides on security, conflict situations, crisis management. Ensures those physically present have a say in what happens on site.
+3. **Chamber of children** – Voting power proportional to the number of children in the community. Decides on education, long-term investments, sustainability. Ensures the community thinks about the future, not just the present.
 
-4. **Chamber of children** – Voting power proportional to number of children in community. Decides on education, long-term investments, sustainability. Ensures community thinks about future, not just present.
+4. **Chamber of defense**
+   - In BAU it doesn't make sense and will not exist; it will be established if the local security situation significantly deteriorates
+   - Voting power proportional to physical presence (days spent on the farm in the last year) and the physical ability to defend the community (fitness, combat sports, etc.)
 
 **How it works:**
-- Each decision must pass through relevant chamber(s)
-- Budget must pass chamber of taxes (those who pay) and chamber of legitimacy (everyone agrees)
-- Security measures must pass chamber of defense (those on site) and chamber of legitimacy
-- Long-term investments must pass chamber of taxes (finance) and chamber of children (future)
+- Any decision can be vetoed by a strong majority of any chamber, so that decisions cannot harm one of the essential pillars of the community
 
 **Why it works:**
 - Balances different interests – capital, physical presence, legitimacy, future
@@ -34,16 +33,24 @@ Semilla stands on four pillars. Each solves a specific problem that kills other 
 
 ## Locality
 
-**Problem:** Global supply chains are fragile. Covid showed how quickly international trade can collapse. Energy crisis showed how dependence on imports kills economies. Food security isn't luxury, it's utility.
+**Problem:**
+    - Global supply chains are fragile. Covid showed how quickly international trade can collapse. The energy crisis showed how dependence on imports kills economies. Food security isn't luxury, it's utility.
+    - Anonymity and not knowing the people who influence your children is a huge gamble
+    - Excessive distance of (grand)parents creates problems with the regularity of contact. It ruins relationships or has high costs.
 
-**Solution:** Food self-sufficiency as primary goal. Healthcare infrastructure as secondary goal.
+**Solution:**
+    - Food self-sufficiency as the primary goal.
+    - Healthcare infrastructure as the secondary goal.
+    - Walking distance to the people who are important to you
+    - Predictable environment for children
+    - Community “elder home” with a range of care from full self-sufficiency to daily supervision
 
 **Food self-sufficiency:**
 - Vegetables and fruit – year-round production thanks to Uruguayan climate
 - Eggs – poultry as most efficient protein source
 - Dairy products – goats or sheep (lower requirements than cows)
 - Grains – wheat or corn for basic self-sufficiency
-- Canning – processing surpluses, winter supplies
+- Canning – processing surpluses, winter supplies and stabilizing costs during economic crises
 - Seeds – own seed production, independence from suppliers
 
 **Healthcare infrastructure:**

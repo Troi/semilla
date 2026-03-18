@@ -6,19 +6,24 @@ Semilla se sostiene sobre cuatro pilares. Cada uno resuelve un problema específ
 
 ## Gobernanza
 
-**Problema:** La mayoría de las comunidades colapsan en gobernanza. O es dictadura (una persona decide, otros se van), o anarquía (nadie decide, nada pasa), o tiranía de la mayoría (51% votos = 100% poder).
+**Problema:** La mayoría de las comunidades colapsan en gobernanza. O es dictadura (una persona decide, otros se van), o anarquía (nadie decide, nada pasa), o tiranía de la mayoría (51% votos = 100% poder) y tiende a ignorar necesidades esenciales de la comunidad (natalidad y actividad económica), destruyéndola en el largo plazo.
 
-**Solución:** Sistema de cuatro cámaras inspirado en estructuras de gobernanza históricas que sobrevivieron siglos.
+**Solución:** Sistema multicompartimental inspirado en estructuras de gobernanza históricas que sobrevivieron siglos.
 
-**Cuatro cámaras:**
+**Tres y media cámaras:**
 
-1. **Cámara de legitimidad** – Todos los socios, un voto. Decide sobre reglas básicas, aceptación de nuevos miembros, cambios estructurales. Mayoría 2/3 para cambios fundamentales.
+1. **Cámara de legitimidad** – Todos los socios, un voto. Decide sobre reglas básicas, aceptación de nuevos miembros, cambios estructurales. Mayoría 2/3 para cambios fundamentales. Asegura que nadie pueda ser pasado por encima sin consenso amplio.
 
 2. **Cámara de impuestos** – Poder de voto proporcional a contribución de capital. Decide sobre presupuesto, inversiones, compromisos financieros. Asegura que quienes pagan tengan voz en cómo se gasta el dinero.
 
-3. **Cámara de defensa** – Poder de voto proporcional a presencia física (días en granja en último año). Decide sobre seguridad, situaciones de conflicto, gestión de crisis. Asegura que quienes están físicamente presentes tengan voz en lo que pasa en el lugar.
+3. **Cámara de hijos** – Poder de voto proporcional al número de hijos en la comunidad. Decide sobre educación, inversiones a largo plazo, sostenibilidad. Asegura que la comunidad piense en futuro, no solo en presente.
 
-4. **Cámara de hijos** – Poder de voto proporcional a número de hijos en comunidad. Decide sobre educación, inversiones a largo plazo, sostenibilidad. Asegura que la comunidad piense en futuro, no solo en presente.
+4. **Cámara de defensa**
+   - En BAU no tiene sentido y no va a existir; se crea si la situación de seguridad local se deteriora significativamente
+   - Poder de voto proporcional a presencia física (días pasados en la granja en el último año) y a las capacidades físicas para defender la comunidad (estado físico, artes marciales, etc.)
+
+**Cómo funciona:**
+- Cualquier decisión puede ser vetada por una mayoría fuerte de alguna cámara, para que las decisiones no puedan dañar uno de los pilares esenciales de la comunidad
 
 **Por qué funciona:**
 - Balancea diferentes intereses – capital, presencia física, legitimidad, futuro
@@ -28,17 +33,31 @@ Semilla se sostiene sobre cuatro pilares. Cada uno resuelve un problema específ
 
 ## Localidad
 
-**Problema:** Las cadenas de suministro globales son frágiles. Covid mostró qué tan rápido puede colapsar el comercio internacional. La seguridad alimentaria no es lujo, es utilidad.
+**Problema:**
+    - Las cadenas de suministro globales son frágiles. Covid mostró qué tan rápido puede colapsar el comercio internacional. La crisis energética mostró cómo la dependencia de importaciones mata economías. La seguridad alimentaria no es lujo, es utilidad.
+    - Anonimato y desconocimiento de la gente que influye en tus hijos es una apuesta enorme
+    - Demasiada distancia de (abuelos) crea problemas con la regularidad del contacto. Arruina relaciones o tiene costos altos.
 
-**Solución:** Autosuficiencia alimentaria como objetivo primario. Infraestructura de salud como objetivo secundario.
+**Solución:**
+    - Autosuficiencia alimentaria como objetivo primario.
+    - Infraestructura de salud como objetivo secundario.
+    - Distancia a pie a la gente que es importante para vos
+    - Entorno predecible para los niños
+    - "Hogar de mayores" comunitario con una escala de cuidados desde plena autosuficiencia hasta supervisión diaria
 
 **Autosuficiencia alimentaria:**
 - Verduras y frutas – producción durante todo el año gracias al clima uruguayo
 - Huevos – aves como fuente de proteína más eficiente
 - Productos lácteos – cabras u ovejas (menores requerimientos que vacas)
 - Granos – trigo o maíz para autosuficiencia básica
-- Conservas – procesamiento de excedentes, suministros para invierno
+- Conservas – procesamiento de excedentes, suministros para invierno y estabilización de costos durante crisis económicas
 - Semillas – producción propia de semillas, independencia de proveedores
+
+**Infraestructura de salud:**
+- Fase 1: Botiquín, equipamiento básico, telemedicina
+- Fase 2: Ambulancia/consultorio, médico general o enfermera en la comunidad
+- Fase 3: Pequeño consultorio, procedimientos quirúrgicos básicos, asistencia al parto
+- Objetivo: Resolver 80% de situaciones de salud sin ir a la ciudad
 
 **Por qué funciona:**
 - Reduce dependencia de sistemas externos
@@ -62,7 +81,13 @@ Semilla se sostiene sobre cuatro pilares. Cada uno resuelve un problema específ
 - **Exit simple** – vendés acciones, no inmueble. Sin permisos de construcción, sin catastros, sin meses de espera
 - **Gobernanza flexible** – SA tiene estatutos, estatutos definen reglas. Cambio de estatutos = cambio de reglas
 - **Protección legal** – SA es entidad legal, protege a socios de responsabilidad personal
-- **Eficiencia fiscal** – Uruguay no tiene impuesto sobre ingresos mundiales para no residentes
+- **Eficiencia fiscal** – Uruguay no tiene impuesto sobre ingresos mundiales para no residentes, la SA paga impuestos solo sobre ingresos uruguayos
+
+**Contrato de membresía más allá de la SA:**
+- Los estatutos de la SA definen la propiedad y las reglas básicas
+- El contrato de membresía define derechos y obligaciones de los socios
+- Garantías básicas – lo que cada socio recibe como mínimo (acceso a producción, residencia, condiciones de exit)
+- Entidades opt-in – fondo de salud, cooperativa educativa (voluntarias, no obligatorias)
 
 **Por qué funciona:**
 - Exit está definido y es ejecutable – no estás atrapado
