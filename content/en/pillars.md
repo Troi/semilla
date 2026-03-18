@@ -31,21 +31,13 @@ Semilla stands on four pillars. Each solves a specific problem that kills other 
 - Motivates right behavior – want influence? Invest capital, time, or children
 - Eliminates free riders – if you don't bring value, you don't have voice
 
-## Locality
+## Economic locality
 
-**Problem:**
-    - Global supply chains are fragile. Covid showed how quickly international trade can collapse. The energy crisis showed how dependence on imports kills economies. Food security isn't luxury, it's utility.
-    - Anonymity and not knowing the people who influence your children is a huge gamble
-    - Excessive distance of (grand)parents creates problems with the regularity of contact. It ruins relationships or has high costs.
+**Problem:** Fragility of global supply chains
 
-**Solution:**
-    - Food self-sufficiency as the primary goal.
-    - Healthcare infrastructure as the secondary goal.
-    - Walking distance to the people who are important to you
-    - Predictable environment for children
-    - Community “elder home” with a range of care from full self-sufficiency to daily supervision
+Global supply chains are fragile. Covid showed how quickly international trade can collapse. The energy crisis showed how dependence on imports kills economies. Food security isn't luxury, it's utility.
 
-**Food self-sufficiency:**
+**Solution – Food self-sufficiency:**
 - Vegetables and fruit – year-round production thanks to Uruguayan climate
 - Eggs – poultry as most efficient protein source
 - Dairy products – goats or sheep (lower requirements than cows)
@@ -53,17 +45,57 @@ Semilla stands on four pillars. Each solves a specific problem that kills other 
 - Canning – processing surpluses, winter supplies and stabilizing costs during economic crises
 - Seeds – own seed production, independence from suppliers
 
-**Healthcare infrastructure:**
+**Why it works:**
+- Reduces dependence on external systems
+- Provides real value even in BAU scenario (quality food)
+- In collapse scenario it's the difference between survival and catastrophe
+- Builds community skill set – agronomist, craftsman are critical
+
+## Health locality
+
+**Problem:** Future unavailability of basic healthcare in crises and dependence on distant services
+
+**Solution – Healthcare infrastructure:**
 - Phase 1: First aid kit, basic equipment, telemedicine
-- Phase 2: Clinic, general practitioner or nurse in community
+- Phase 2: Clinic, general practitioner or nurse in the community
 - Phase 3: Small practice, basic surgical procedures, birth assistance
-- Goal: Handle 80% of health situations without trip to city
+- Goal: Handle 80% of health situations without a trip to the city
 
 **Why it works:**
 - Reduces dependence on external systems
-- Provides real value even in BAU scenario (quality food, healthcare)
-- In collapse scenario it's difference between survival and catastrophe
-- Builds community skill set – agronomist, doctor, craftsman are critical
+- Provides real value even in BAU scenario (healthcare)
+- In crises it increases community resilience
+- Builds healthcare skills in the community
+- Strengthens the motivation of healthcare workers to remain available to the community
+
+## Educational locality
+
+**Problem:** Anonymity around children
+
+Anonymity and not knowing the people who influence your children is a huge gamble. Parents need to have an idea of who their children spend time with.
+
+**Solution:**
+- Predictable environment for children
+- Walking distance to the people who are important to you
+
+**Why it works:**
+- Increases safety and quality of upbringing
+- Strengthens trust between families and the community
+- Reduces future cultural gaps
+
+## Caregiving locality
+
+**Problem:** Distance of (grand)parents and lack of scalable care
+
+Excessive distance of (grand)parents creates problems with the regularity of contact. It ruins relationships or has high costs.
+
+**Solution:**
+- Community “elder home” with a range of care from full self-sufficiency to daily supervision
+- Walking distance for easier everyday help and contact
+
+**Why it works:**
+- Maintains family bonds and reduces care costs
+- Increases quality of life for seniors and caring families
 
 ## Ownership
 

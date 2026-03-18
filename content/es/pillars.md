@@ -31,21 +31,13 @@ Semilla se sostiene sobre cuatro pilares. Cada uno resuelve un problema específ
 - Motiva comportamiento correcto – ¿querés influencia? Invertí capital, tiempo, o hijos
 - Elimina parásitos – si no aportás valor, no tenés voz
 
-## Localidad
+## Localidad Económica
 
-**Problema:**
-    - Las cadenas de suministro globales son frágiles. Covid mostró qué tan rápido puede colapsar el comercio internacional. La crisis energética mostró cómo la dependencia de importaciones mata economías. La seguridad alimentaria no es lujo, es utilidad.
-    - Anonimato y desconocimiento de la gente que influye en tus hijos es una apuesta enorme
-    - Demasiada distancia de (abuelos) crea problemas con la regularidad del contacto. Arruina relaciones o tiene costos altos.
+**Problema:** Fragilidad de las cadenas de suministro globales
 
-**Solución:**
-    - Autosuficiencia alimentaria como objetivo primario.
-    - Infraestructura de salud como objetivo secundario.
-    - Distancia a pie a la gente que es importante para vos
-    - Entorno predecible para los niños
-    - "Hogar de mayores" comunitario con una escala de cuidados desde plena autosuficiencia hasta supervisión diaria
+Las cadenas de suministro globales son frágiles. Covid mostró qué tan rápido puede colapsar el comercio internacional. La crisis energética mostró cómo la dependencia de importaciones mata economías. La seguridad alimentaria no es lujo, es utilidad.
 
-**Autosuficiencia alimentaria:**
+**Solución – Autosuficiencia alimentaria:**
 - Verduras y frutas – producción durante todo el año gracias al clima uruguayo
 - Huevos – aves como fuente de proteína más eficiente
 - Productos lácteos – cabras u ovejas (menores requerimientos que vacas)
@@ -53,7 +45,17 @@ Semilla se sostiene sobre cuatro pilares. Cada uno resuelve un problema específ
 - Conservas – procesamiento de excedentes, suministros para invierno y estabilización de costos durante crisis económicas
 - Semillas – producción propia de semillas, independencia de proveedores
 
-**Infraestructura de salud:**
+**Por qué funciona:**
+- Reduce dependencia de sistemas externos
+- Proporciona valor real incluso en escenario BAU (alimentos de calidad)
+- En escenario de colapso es la diferencia entre supervivencia y catástrofe
+- Construye skillset de comunidad – agrónomo y artesano son críticos
+
+## Localidad Sanitaria
+
+**Problema:** Futura indisponibilidad de atención médica básica en crisis y dependencia de servicios lejanos
+
+**Solución – Infraestructura de salud:**
 - Fase 1: Botiquín, equipamiento básico, telemedicina
 - Fase 2: Ambulancia/consultorio, médico general o enfermera en la comunidad
 - Fase 3: Pequeño consultorio, procedimientos quirúrgicos básicos, asistencia al parto
@@ -61,9 +63,39 @@ Semilla se sostiene sobre cuatro pilares. Cada uno resuelve un problema específ
 
 **Por qué funciona:**
 - Reduce dependencia de sistemas externos
-- Proporciona valor real incluso en escenario BAU (alimentos de calidad, salud)
-- En escenario de colapso es diferencia entre supervivencia y catástrofe
-- Construye skillset de comunidad – agrónomo, médico, artesano son críticos
+- Proporciona valor real incluso en escenario BAU (salud)
+- En crisis aumenta la resiliencia de la comunidad
+- Construye skills de salud en la comunidad
+- Refuerza la motivación de los profesionales de salud para seguir disponibles para la comunidad
+
+## Localidad Educativa
+
+**Problema:** Anonimato alrededor de los niños
+
+Anonimato y desconocimiento de la gente que influye en tus hijos es una apuesta enorme. Madres y padres necesitan tener idea de con quién pasan tiempo sus hijos.
+
+**Solución:**
+- Entorno predecible para los niños
+- Distancia a pie a la gente que es importante para vos
+
+**Por qué funciona:**
+- Aumenta la seguridad y la calidad de la crianza
+- Fortalece la confianza entre familias y comunidad
+- Reduce brechas culturales futuras
+
+## Localidad de Cuidados
+
+**Problema:** Distancia de (abuelos) y falta de cuidados escalables
+
+Demasiada distancia de (abuelos) crea problemas con la regularidad del contacto. Arruina relaciones o tiene costos altos.
+
+**Solución:**
+- "Hogar de mayores" comunitario con una escala de cuidados desde plena autosuficiencia hasta supervisión diaria
+- Distancia a pie para facilitar ayuda y contacto cotidianos
+
+**Por qué funciona:**
+- Mantiene lazos familiares y reduce costos de cuidado
+- Mejora la calidad de vida de personas mayores y familias cuidadoras
 
 ## Propiedad
 

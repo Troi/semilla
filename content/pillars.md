@@ -31,21 +31,13 @@ Semilla stojí na čtyřech pilířích. Každý řeší konkrétní problém kt
 - Motivuje správné chování – chcete vliv? Investujte kapitál, čas, nebo děti
 - Eliminuje příživníky – pokud nepřinášíte hodnotu, nemáte hlas
 
-## Lokálnost
+## Lokálnost Ekonomická
 
-**Problém:**
-    - Globální dodavatelské řetězce jsou křehké. Covid ukázal jak rychle může kolabovat mezinárodní obchod. Energetická krize ukázala jak závislost na dovozu zabíjí ekonomiky. Potravinová bezpečnost není luxus, je to utilita.
-    - Anonymita a neznámost lidí, kteří ovlivňují vaše děti, je obrovský hazard
-    - Přílišná vzdálenost (pra)rodičů vytváří problémy s pravidelností kontaktu. Kazí to vztahy nebo má vysoké náklady.
+**Problém:** Křehkost globálních dodavatelských řetězců
 
-**Řešení:**
-    - Potravinová soběstačnost jako primární cíl.
-    - Zdravotní infrastruktura jako sekundární cíl.
-    - Dochodová vzdálenost k lidem, kteří jsou pro vás důležití
-    - Předvídatelné prostředí pro děti
-    - komunitní "domov důchodců" se škálou péče od plné soběstačnosti po denní dohled
+Globální dodavatelské řetězce jsou křehké. Covid ukázal, jak rychle může kolabovat mezinárodní obchod. Energetická krize ukázala, jak závislost na dovozu zabíjí ekonomiky. Potravinová bezpečnost není luxus, je to utilita.
 
-**Potravinová soběstačnost:**
+**Řešení – Potravinová soběstačnost:**
 - Zelenina a ovoce – celoroční produkce díky uruguayskému klimatu
 - Vejce – drůbež jako nejefektivnější zdroj proteinu
 - Mléčné produkty – kozy nebo ovce (nižší nároky než krávy)
@@ -53,7 +45,17 @@ Semilla stojí na čtyřech pilířích. Každý řeší konkrétní problém kt
 - Konzervárenství – zpracování přebytků, zásoby na zimu a stabilizaci nákladů během ekonomických krizí
 - Semena – vlastní produkce semen, nezávislost na dodavatelích
 
-**Zdravotní infrastruktura:**
+**Proč to funguje:**
+- Snižuje závislost na vnějších systémech
+- Poskytuje reálnou hodnotu i v BAU scénáři (kvalitní jídlo)
+- V kolapsovém scénáři je to rozdíl mezi přežitím a katastrofou
+- Buduje skill set komunity – agronom, řemeslník jsou kritičtí
+
+## Lokálnost Zdravotní
+
+**Problém:** Budoucí zásadní nedostupnost základní zdravotní péče vlivem demografického úpadku. Doktoři nebudou existovat v dostatečném počtu.
+
+**Řešení – Zdravotní infrastruktura:**
 - Fáze 1: Lékárnička, základní vybavení, telemedicína
 - Fáze 2: Ambulance, praktický lékař nebo zdravotní sestra v komunitě
 - Fáze 3: Malá ordinace, základní chirurgické výkony, porodní asistence
@@ -61,9 +63,39 @@ Semilla stojí na čtyřech pilířích. Každý řeší konkrétní problém kt
 
 **Proč to funguje:**
 - Snižuje závislost na vnějších systémech
-- Poskytuje reálnou hodnotu i v BAU scénáři (kvalitní jídlo, zdravotní péče)
-- V kolapsovém scénáři je to rozdíl mezi přežitím a katastrofou
-- Buduje skill set komunity – agronom, lékař, řemeslník jsou kritičtí
+- Poskytuje reálnou hodnotu i v BAU scénáři (zdravotní péče)
+- V krizových situacích zvyšuje odolnost komunity
+- Buduje zdravotnické skilly v komunitě
+- posiluje motivaci zdravotníků zůstat dostupní komunitě
+
+## Lokálnost výchovná
+
+**Problém:** Anonymita okolo dětí
+
+Anonymita a neznámost lidí, kteří ovlivňují vaše děti, je obrovský hazard. Rodiče potřebují mít představu s kým se jejich děti stýkají.
+
+**Řešení:**
+- Předvídatelné prostředí pro děti
+- Dochodová vzdálenost k lidem, kteří jsou pro vás důležití
+
+**Proč to funguje:**
+- Zvyšuje bezpečí a kvalitu výchovy
+- Posiluje důvěru mezi rodinami a komunitou
+- Snižuje budoucní kulturní rozdíly
+
+## Lokálnost pečovatelská
+
+**Problém:** Vzdálenost (pra)rodičů a nedostatek škálované péče
+
+Přílišná vzdálenost (pra)rodičů vytváří problémy s pravidelností kontaktu. Kazí to vztahy nebo má vysoké náklady.
+
+**Řešení:**
+- Komunitní „domov důchodců“ se škálou péče od plné soběstačnosti po denní dohled
+- Dochodová vzdálenost pro snazší každodenní pomoc a kontakt
+
+**Proč to funguje:**
+- Udržuje rodinné vazby a snižuje náklady péče
+- Zvyšuje kvalitu života seniorů i pečujících rodin
 
 ## Vlastnictví
 
